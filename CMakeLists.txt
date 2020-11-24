@@ -1,0 +1,2 @@
+add_executable(fibonacci Fibonacci.cpp)
+add_executable(fibonacci_constexpr FibonacciConstexpr.cpp)
